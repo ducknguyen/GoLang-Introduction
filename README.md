@@ -1,10 +1,10 @@
 # GoLang-Introduction
 An introduction to Google's Go, also known as GoLang. This repository includes guides to install Go, general information about Go, some sample codes, and extra resources. This great presentation was brought to you by Brent Taylor and Duck Nguyen.
 ## Getting Started
-Download Go/GoLang for Mac or Windows from [GoLang website](https://golang.org/).Select and download the proper package for your system and follow the installing instructions.
+Download Go/GoLang for Mac or Windows from [GoLang website](https://golang.org/). Select and download the proper package for your system and follow the installing instructions.
 ### Installing guide
-- Install Go/GoLang on Windows
-- Install Go/Golang on [Mac](https://www.youtube.com/watch?v=5qI8z_lB5Lw)
+- Setting GOPATH for Go/GoLang on [Windows](https://github.com/golang/go/wiki/SettingGOPATH)
+- Install Go/Golang and set GOPATH on [Mac](https://www.youtube.com/watch?v=5qI8z_lB5Lw)
 - Note: make sure you set the proper GOPATH - GO's [Workspace](https://golang.org/doc/code.html#Workspaces) for your working environment, the program will not run if GoPath is not specified
 ## About Go/GoLang
 - See the PowerPoint file in this repository and follow our presentation
